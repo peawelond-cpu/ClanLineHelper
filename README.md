@@ -12,7 +12,6 @@ Raid line manager for **Fenrir Empire** clan | by **Eclipse**
 | `/36 user` | Записать ник в позицию |
 | `/-36` | Удалить ник |
 | `/sdvig` | Сдвиг вниз |
-| `/sdvigup` | Сдвиг вверх |
 | `/copy` | Скопировать список |
 | `/list` | Показать всё |
 | `/clear` | Очистить |
