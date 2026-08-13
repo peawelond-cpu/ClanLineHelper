@@ -1,10 +1,11 @@
 # <img src="https://img.icons8.com/color/48/000000/sword.png" width="30"/> Clan Line Helper
 
-**version**  
-1.0  
+**<img src="https://img.icons8.com/color/48/000000/info.png" width="20"/> version**  
+2.0 
 
-**Python**  
+**<img src="https://img.icons8.com/color/48/000000/python.png" width="20"/> Python**  
 3.x  
+
 ---
 
 Raid line manager for **Fenrir Empire clan** | by Eclipse  
