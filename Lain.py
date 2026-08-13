@@ -207,8 +207,6 @@ def show_info():
     print("  /sdvig               - сдвинуть все строки на 1 вниз")
     print("                         q3 → q2, q4 → q3, ..., q100 → q99")
     print()
-    print("  /sdvigup             - сдвинуть все строки на 1 вверх")
-    print("                         q2 → q3, q3 → q4, ..., q99 → q100")
     print()
     print("  /list                - показать все строки")
     print()
