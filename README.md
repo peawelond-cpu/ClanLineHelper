@@ -1,19 +1,15 @@
-# Clan Line Helper
+# <img src="https://img.icons8.com/color/48/000000/sword.png" width="30"/> Clan Line Helper
 
 **version**  
 1.0  
 
 **Python**  
 3.x  
-
-**clan**  
-Fenrir Empire  
-
 ---
 
 Raid line manager for **Fenrir Empire clan** | by Eclipse  
 
-## Commands
+## <img src="https://img.icons8.com/color/48/000000/tasks.png" width="24"/> Commands
 
 | Command | Description |
 |---------|-------------|
@@ -34,19 +30,21 @@ Raid line manager for **Fenrir Empire clan** | by Eclipse
 
 ---
 
-## Installation
+## <img src="https://img.icons8.com/color/48/000000/settings.png" width="24"/> Installation
 
 1. Install Python 3  
 2. Run `Lain.py`
 
 ---
 
-## 📦 Releases
+## <img src="https://img.icons8.com/color/48/000000/release.png" width="24"/> Releases
 
-**More releases available on the [Releases page](https://github.com/peawelond-cpu/ClanLineHelper/releases)**
+More releases available on the [Releases page](https://github.com/peawelond-cpu/ClanLineHelper/releases)
 
 ---
 
-## License
+## <img src="https://img.icons8.com/color/48/000000/link.png" width="24"/> Links
 
-No license — all rights reserved.
+- [🐙 GitHub Repository](https://github.com/peawelond-cpu/ClanLineHelper)
+- [🐛 Report Bug](https://github.com/peawelond-cpu/ClanLineHelper/issues)
+- [📦 Releases](https://github.com/peawelond-cpu/ClanLineHelper/releases)
