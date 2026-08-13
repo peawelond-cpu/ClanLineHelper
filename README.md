@@ -1,21 +1,52 @@
-# 📋 Clan Line Helper
+# Clan Line Helper
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Python](https://img.shields.io/badge/Python-3.x-green)
-![Clan](https://img.shields.io/badge/clan-Fenrir_Empire-purple)
+**version**  
+1.0  
 
-Raid line manager for **Fenrir Empire** clan | by **Eclipse**
+**Python**  
+3.x  
 
-## Команды
-| Команда | Описание |
-|---|---|
-| `/36 user` | Записать ник в позицию |
-| `/-36` | Удалить ник |
-| `/sdvig` | Сдвиг вниз |
-| `/copy` | Скопировать список |
-| `/list` | Показать всё |
-| `/clear` | Очистить |
+**clan**  
+Fenrir Empire  
 
-## Установка
-1. Установи Python 3
-2. Запусти `Lain.py`
+---
+
+Raid line manager for **Fenrir Empire clan** | by Eclipse  
+
+## Commands
+
+| Command | Description |
+|---------|-------------|
+| `/36 user` | Write nickname to position |
+| `/add 36 35 38 - user` | Add user to multiple positions |
+| `/-36` | Remove nickname |
+| `/sdvig` | Shift down (q3 → q2) |
+| `/sdvigup` | Shift up (q2 → q3) |
+| `/copy` | Copy list |
+| `/auto 5` | Auto-refresh every N seconds |
+| `/auto stop` | Stop auto-refresh |
+| `/list` | Show all |
+| `/list 10` | Show first N lines |
+| `/clear` | Clear all |
+| `/time` | Show time |
+| `/info` | Show commands |
+| `/exit` | Exit |
+
+---
+
+## Installation
+
+1. Install Python 3  
+2. Run `Lain.py`
+
+---
+
+## 📦 Releases
+
+**More releases available on the [Releases page](https://github.com/peawelond-cpu/ClanLineHelper/releases)**
+
+---
+
+## License
+
+No license — all rights reserved.
