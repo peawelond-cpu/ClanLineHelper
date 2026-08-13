@@ -14,7 +14,6 @@ dist/
 build/
 *.egg
 
-# Файлы данных (если не хотите хранить их на GitHub)
 lines_data.txt
 lines_data_backup.txt
 last_time.txt
