@@ -20,10 +20,10 @@ Raid line manager for **Fenrir Empire clan** | by Eclipse
 | `/sdvig` | Shift down (q3 → q2) |
 | `/sdvigup` | Shift up (q2 → q3) |
 | `/copy` | Copy list |
-| `/auto 5` | Auto-refresh every N seconds |
+| `/auto 5` | Auto-refresh every 5 seconds |
 | `/auto stop` | Stop auto-refresh |
 | `/list` | Show all |
-| `/list 10` | Show first N lines |
+| `/list 10` | Show first 10 lines |
 | `/clear` | Clear all |
 | `/time` | Show time |
 | `/info` | Show commands |
